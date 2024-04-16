@@ -1,0 +1,29 @@
+table,
+thead,
+tbody,
+tfoot,
+tr,
+td,
+th,
+caption{
+  border: 3px solid #252525;
+  font-size: 5rem;
+  color: #bb0000;
+} 
+body{
+    background-color: black;
+}
+a{
+    color: red;
+    font-family: "Maitree", sans-serif;
+}
+h1{
+    color:red;
+    margin-left: 0rem;
+    font-size: 4cap;
+    font-family: "Maitree", sans-serif;
+  }
+table{
+  margin: auto;
+  margin-top: 0.5em;
+}

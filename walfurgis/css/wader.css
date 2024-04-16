@@ -1,0 +1,40 @@
+body {
+    font-size: 16px;
+    min-width: 320px;
+    position: relative;
+    line-height: 1.65;
+    font-family: "Variable", sans-serif;
+    opacity: 1; /* изменено с 0 на 1, чтобы страница была видна */
+    overflow-x: hidden; /* скрывает горизонтальную прокрутку */
+    background-color: rgb(0, 0, 0); /* фон страницы */
+}
+a{
+    color: red;
+    font-family: "Maitree", sans-serif;
+  }
+p{
+    color: rgb(255, 0, 0);
+    font-size: 6rem;
+}
+h1{
+    color:red;
+    margin-left: 0rem;
+    font-size: 4cap;
+    font-family: "Maitree", sans-serif;
+  }
+.fava{
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  filter: brightness(95%);
+}
+.opswar{
+  text-align: center;
+  font-family: "Maitree", sans-serif;;
+}
+.opswarp{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, serif;
+}
+.warnam{
+  font-family: "Maitree", sans-serif;;
+}
